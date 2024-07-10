@@ -26,7 +26,7 @@ Downloads torrent files or magnet links provided by the user.
 Utilizes libtorrent for efficient handling of torrent downloads.
 Uploads the downloaded game to Google Drive for cloud storage.
 
-
+<br><br><br><br>
 
 
 # <span style="color:blue">For v1.0.1</span>
@@ -42,7 +42,7 @@ Fast and easy to use.
 3. When an error occurs during the download, progress resets to zero.
 
 
-
+<br><br><br><br><br>
 
 # <span style="color:blue">For v2</span>
 

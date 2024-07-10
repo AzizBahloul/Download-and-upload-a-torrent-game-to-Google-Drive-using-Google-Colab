@@ -29,20 +29,22 @@ Uploads the downloaded game to Google Drive for cloud storage.
 
 
 
-#For v1.0.1
+# <span style="color:blue">For v1.0.1</span>
 
 Just upload the .ipynb file to Google Colab and run all the cells. Afterward, you will find your folder in your Google Drive.
 
-##Features:
+## Features:
 Fast and easy to use.
-##Drawbacks:
-1-Issues encountered while downloading.
-2-Errors during the download process may result in resetting progress to zero.
-3- when the an erro happen during the dowlaod it return to 0 
+
+## Drawbacks:
+1. Issues encountered while downloading.
+2. Errors during the download process may result in resetting progress to zero.
+3. When an error occurs during the download, progress resets to zero.
 
 
 
-#for the v2
+
+# <span style="color:blue">For v2</span>
 
 ## Table of Contents
 
@@ -57,7 +59,7 @@ Fast and easy to use.
 
 1. **Install Google Drive for Desktop:** [Download Link](https://www.google.com/drive/download/)
 2. **Create a Folder:** Create a folder on your desktop named "torrent."
-3. **Add to Google Drive:**
+3. **Add it to Google Drive:**
    ![Screenshot](https://github.com/AzizBahloul/Download-and-upload-a-torrent-game-to-Google-Drive-using-Google-Colab/assets/74460680/09b59c1e-e01e-4415-96cb-30ecf94a8fa0)
 4. **Syncing Options:**
    ![Screenshot](https://github.com/AzizBahloul/Download-and-upload-a-torrent-game-to-Google-Drive-using-Google-Colab/assets/74460680/6306a35e-ea14-4637-a48a-888a0acec0ac)

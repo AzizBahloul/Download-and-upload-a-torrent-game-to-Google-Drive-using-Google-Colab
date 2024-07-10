@@ -82,14 +82,20 @@ Fast and easy to use.
 ## Setup
 
 1. **Install Google Drive for Desktop:** [Download Link](https://www.google.com/drive/download/)
-2. **Create a Folder:** Create a folder on your desktop named "torrent."
-3. **Add it to Google Drive:**
+<br><br>
+3. **Create a Folder:** Create a folder on your desktop named "torrent."
+   <br><br>
+5. **Add it to Google Drive:**
    ![Screenshot](https://github.com/AzizBahloul/Download-and-upload-a-torrent-game-to-Google-Drive-using-Google-Colab/assets/74460680/09b59c1e-e01e-4415-96cb-30ecf94a8fa0)
-4. **Syncing Options:**
+   <br><br>
+7. **Syncing Options:**
+8. <br><br>
    ![Screenshot](https://github.com/AzizBahloul/Download-and-upload-a-torrent-game-to-Google-Drive-using-Google-Colab/assets/74460680/6306a35e-ea14-4637-a48a-888a0acec0ac)
-5. **Set Sync Destination:** Point syncing to the "torrent" folder on your desktop.
-6. **Upload and Connect:** Upload `torrentv2.ipynb` to Google Colab and connect with your Google Drive account.
-
-Now, the torrent will automatically download to your computer.
+   <br><br>
+10. **Set Sync Destination:** Point syncing to the "torrent" folder on your desktop.
+ <br><br>
+12. **Upload and Connect:** Upload `torrentv2.ipynb` to Google Colab and connect with your Google Drive account.
+<br><br>
+## Now, the torrent will automatically download to your computer.
 
 
